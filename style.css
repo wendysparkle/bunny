@@ -1,4 +1,4 @@
-h1 {
-  color: navy; 
-  box-sizing: border-box;
+.welcome {
+  background-color: #CCCCFF;
+  box-sizing: box;
 }
