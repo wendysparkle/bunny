@@ -1,4 +1,17 @@
+* {
+  margin: 0;
+}
 .welcome {
   background-color: #CCCCFF;
   box-sizing: box;
+  text-align: -webkit-center;
+  padding: 40px 0;
+}
+
+h1, p {
+  font-family: 'Roboto';
+  color: white;
+}
+p {
+  margin-top: 20px;
 }
